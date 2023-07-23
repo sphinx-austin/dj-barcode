@@ -1,2 +1,2 @@
-# dj-barcode
+# django barcode
 Build barcode with python-django
