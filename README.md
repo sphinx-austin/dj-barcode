@@ -1,2 +1,3 @@
-# django barcode
-Build barcode with python-django
+# Build barcode with python-django
+
+## Get started
