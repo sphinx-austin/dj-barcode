@@ -1,3 +1,3 @@
-# Build barcode with python-django
+## Build barcode with python-django
 
 Documentation comming soon...
